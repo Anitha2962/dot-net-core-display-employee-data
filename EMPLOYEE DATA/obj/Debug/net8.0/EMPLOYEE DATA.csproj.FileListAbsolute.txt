@@ -1,0 +1,32 @@
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.csproj.AssemblyReference.cache
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.AssemblyInfoInputs.cache
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.AssemblyInfo.cs
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.csproj.CoreCompileInputs.cache
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.MvcApplicationPartsAssemblyInfo.cs
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.MvcApplicationPartsAssemblyInfo.cache
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\appsettings.Development.json
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\appsettings.json
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\EMPLOYEE DATA.exe
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\EMPLOYEE DATA.deps.json
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\EMPLOYEE DATA.runtimeconfig.json
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\EMPLOYEE DATA.dll
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\EMPLOYEE DATA.pdb
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\staticwebassets.build.json
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\staticwebassets.development.json
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\staticwebassets\msbuild.EMPLOYEE DATA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\staticwebassets\msbuild.build.EMPLOYEE DATA.props
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EMPLOYEE DATA.props
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EMPLOYEE DATA.props
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\scopedcss\bundle\EMPLOYEE DATA.styles.css
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.csproj.CopyComplete
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.dll
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\refint\EMPLOYEE DATA.dll
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.pdb
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\EMPLOYEE DATA.genruntimeconfig.cache
+D:\DOT NET CORE\EMPLOYEE DATA\EMPLOYEE DATA\obj\Debug\net8.0\ref\EMPLOYEE DATA.dll
